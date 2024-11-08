@@ -1,0 +1,7 @@
+# Configuración para el directorio /POS_EDITAL
+/POS_EDITAL/*
+  Access-Control-Allow-Origin: https://estrategia-medica-course.netlify.app
+
+# Configuración para el directorio /EDITAL
+/EDITAL/*
+  Access-Control-Allow-Origin: https://estrategia-medica-course.netlify.app
