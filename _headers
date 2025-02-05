@@ -5,3 +5,7 @@
 # Configuración para el directorio /EDITAL
 /EDITAL/*
   Access-Control-Allow-Origin: https://estrategia-medica-course.netlify.app
+
+# Configuración para el directorio /FINAL_RECT
+/FINAL_RECT/*
+  Access-Control-Allow-Origin: https://estrategia-medica-course.netlify.app
